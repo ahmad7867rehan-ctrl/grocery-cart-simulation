@@ -8,13 +8,13 @@ Features
 - Add products to your shopping cart by number
 - Remove items from the cart
 - View cart with subtotal, 8% tax, and total
-- Checkout and print a detailed receipt
+- Checkout and print receipt
 - Input validation for all menu choices
 
 Requirements
 
 - Java 17 or higher
-- Any operating system (Windows, macOS, Linux)
+- Any OS
 - IntelliJ IDEA or any Java IDE
 
 How to Run the Program
@@ -22,11 +22,11 @@ How to Run the Program
 IntelliJ IDEA
 
 1. Open IntelliJ IDEA
-2. Click File -> Open and select the folder containing this project
+2. Click File -> Open and select the folder containing the project
 3. Wait for IntelliJ to index and load the files
 4. In the Project view, navigate to Main.java
-5. Right-click on Main.java (or click the green Run button in the gutter next to main)
-6. Select Run 'Main.main()' 
+5. Right-click on Main.java 
+6. Select Run
 7. The program will start in the terminal window inside IntelliJ
 
 Option 2: Run from the Command Line
